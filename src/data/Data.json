@@ -1,0 +1,44 @@
+[
+  {
+    "PaymentMethod": "Accepting only COD",
+    "Category": "Contitantel",
+    "Cost": "600",
+    "url": "https://www.thespruceeats.com/thmb/vJUFf6L4p8y9Cn_1pE9Z7Ua9uok=/3000x2001/filters:fill(auto,1)/indian-style-burger-1957599-hero-01-266103a4bb4e4ee7b5feb4da2d2e99da.jpg",
+    "Rating": 1.5
+  },
+  {
+    "PaymentMethod": "Accepting only Online Payment Aceepted",
+    "Category": "Spicy",
+    "Cost": "700",
+    "url": "https://i.ytimg.com/vi/im3NqSGyYGY/maxresdefault.jpg",
+    "Rating": 2.5
+  },
+  {
+    "PaymentMethod": "Accepting only COD",
+    "Category": "Pizza",
+    "Cost": "400",
+    "url": "https://www.vincenzosplate.com/wp-content/uploads/2021/07/610x350-Photo-5_963-How-to-Make-NEAPOLITAN-PIZZA-DOUGH-for-Beginners-V1.jpg",
+    "Rating": 3.5
+  },
+  {
+    "PaymentMethod": "Accepting only COD",
+    "Category": "Contitantel,Burger",
+    "Cost": "500",
+    "url": "https://www.thespruceeats.com/thmb/vJUFf6L4p8y9Cn_1pE9Z7Ua9uok=/3000x2001/filters:fill(auto,1)/indian-style-burger-1957599-hero-01-266103a4bb4e4ee7b5feb4da2d2e99da.jpg",
+    "Rating": 4.5
+  },
+  {
+    "PaymentMethod": "Accepting Card only",
+    "Category": "Contitantel",
+    "Cost": "100",
+    "url": "https://i.ytimg.com/vi/im3NqSGyYGY/maxresdefault.jpg",
+    "Rating": 4.0
+  },
+  {
+    "PaymentMethod": "Accepting only COD",
+    "Category": "Desserts",
+    "Cost": "500",
+    "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg?quality=90&resize=500,454",
+    "Rating": 5.0
+  }
+]
